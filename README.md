@@ -2,6 +2,8 @@
 
 A full-stack machine learning application that estimates the market value of used cars in India. Built with **React**, **FastAPI**, and **Scikit-Learn**, trained on real Quikr car listing data.
 
+**Repository:** [github.com/shivayyBaj/ML-carprice-predictor](https://github.com/shivayyBaj/ML-carprice-predictor)
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-0.115-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -137,8 +139,8 @@ carpricepredictor/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/car-price-predictor.git
-cd car-price-predictor
+git clone https://github.com/shivayyBaj/ML-carprice-predictor.git
+cd ML-carprice-predictor
 ```
 
 ### 2. Backend setup
@@ -276,6 +278,6 @@ This project is open source under the [MIT License](LICENSE).
 
 ## Author
 
-Built as a portfolio project showcasing full-stack development and machine learning skills.
+**[shivayyBaj](https://github.com/shivayyBaj)** — Portfolio project showcasing full-stack development and machine learning skills.
 
 If you find this useful, consider giving it a ⭐ on GitHub!
