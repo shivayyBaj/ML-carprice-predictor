@@ -22,7 +22,7 @@ ValuAuto lets users enter vehicle details — company, model, year, fuel type, a
 
 - Trains and compares **5 regression models**, auto-selects the best performer
 - Processes **700+ cleaned records** from the Quikr used-car dataset
-- Professional React UI with analytics charts, dark/light mode, and responsive layout
+- Professional React UI with analytics charts and responsive layout
 - RESTful FastAPI backend with interactive Swagger docs
 
 ---
@@ -49,7 +49,7 @@ ValuAuto lets users enter vehicle details — company, model, year, fuel type, a
 - Animated price result with confidence score and market insight
 - Analytics dashboard (Recharts): price trends, scatter plots, distributions
 - Market insights, prediction history with search/filter
-- PDF report download, dark/light theme toggle
+- PDF report download
 
 ### Backend
 - FastAPI REST API with CORS support

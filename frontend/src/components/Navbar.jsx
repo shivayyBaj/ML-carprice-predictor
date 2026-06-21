@@ -1,10 +1,6 @@
 import { motion } from 'framer-motion';
-import { FiSun, FiMoon } from 'react-icons/fi';
-import { useTheme } from '../hooks/useApp';
 
 export default function Navbar() {
-  const { theme, toggleTheme } = useTheme();
-
   const scrollTo = (id) => {
     document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' });
   };
@@ -42,21 +38,12 @@ export default function Navbar() {
           ))}
         </div>
 
-        <div className="flex items-center gap-3">
-          <button
-            onClick={toggleTheme}
-            className="p-2 rounded-lg border border-surface-border text-gray-400 hover:text-white hover:bg-dark-700 transition-colors"
-            aria-label="Toggle theme"
-          >
-            {theme === 'dark' ? <FiSun className="w-4 h-4" /> : <FiMoon className="w-4 h-4" />}
-          </button>
-          <button
-            onClick={() => scrollTo('predict')}
-            className="btn-primary text-sm hidden sm:block"
-          >
-            Get Valuation
-          </button>
-        </div>
+        <button
+          onClick={() => scrollTo('predict')}
+          className="btn-primary text-sm"
+        >
+          Get Valuation
+        </button>
       </div>
     </motion.nav>
   );
