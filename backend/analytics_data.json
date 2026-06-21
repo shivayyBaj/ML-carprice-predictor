@@ -1,0 +1,1503 @@
+{
+  "fuel_distribution": {
+    "Petrol": 390,
+    "Diesel": 331,
+    "Lpg": 2
+  },
+  "company_distribution": {
+    "Maruti": 202,
+    "Hyundai": 129,
+    "Mahindra": 77,
+    "Tata": 61,
+    "Honda": 51,
+    "Toyota": 34,
+    "Chevrolet": 33,
+    "Renault": 26,
+    "Ford": 26,
+    "Volkswagen": 17,
+    "Skoda": 10,
+    "Audi": 10,
+    "BMW": 8,
+    "Nissan": 6,
+    "Datsun": 6
+  },
+  "avg_price_by_company": {
+    "Jaguar": 2495000.0,
+    "Land": 2100000.0,
+    "Mini": 1891111.0,
+    "Volvo": 1850000.0,
+    "Audi": 1554700.0,
+    "Mitsubishi": 1263000.0,
+    "Mercedes": 1170666.83,
+    "BMW": 1049875.0,
+    "Jeep": 950000.0,
+    "Force": 565000.0,
+    "Mahindra": 518166.14,
+    "Toyota": 502352.76,
+    "Ford": 488615.31,
+    "Nissan": 460666.33,
+    "Renault": 449573.38
+  },
+  "year_vs_price": [
+    {
+      "year": 1995,
+      "avg_price": 390000.0
+    },
+    {
+      "year": 2000,
+      "avg_price": 52428.29
+    },
+    {
+      "year": 2001,
+      "avg_price": 50000.0
+    },
+    {
+      "year": 2002,
+      "avg_price": 161000.0
+    },
+    {
+      "year": 2003,
+      "avg_price": 90923.0
+    },
+    {
+      "year": 2004,
+      "avg_price": 144545.45
+    },
+    {
+      "year": 2005,
+      "avg_price": 82999.92
+    },
+    {
+      "year": 2006,
+      "avg_price": 169556.76
+    },
+    {
+      "year": 2007,
+      "avg_price": 161117.59
+    },
+    {
+      "year": 2008,
+      "avg_price": 162066.67
+    },
+    {
+      "year": 2009,
+      "avg_price": 259429.96
+    },
+    {
+      "year": 2010,
+      "avg_price": 194232.95
+    },
+    {
+      "year": 2011,
+      "avg_price": 348018.09
+    },
+    {
+      "year": 2012,
+      "avg_price": 381914.13
+    },
+    {
+      "year": 2013,
+      "avg_price": 488000.56
+    },
+    {
+      "year": 2014,
+      "avg_price": 420722.65
+    },
+    {
+      "year": 2015,
+      "avg_price": 597679.25
+    },
+    {
+      "year": 2016,
+      "avg_price": 503340.51
+    },
+    {
+      "year": 2017,
+      "avg_price": 420229.06
+    },
+    {
+      "year": 2018,
+      "avg_price": 490285.54
+    },
+    {
+      "year": 2019,
+      "avg_price": 783906.25
+    }
+  ],
+  "kms_vs_price": [
+    {
+      "kms_driven": 70000,
+      "price": 125000.0
+    },
+    {
+      "kms_driven": 41000,
+      "price": 1065000.0
+    },
+    {
+      "kms_driven": 53000,
+      "price": 899000.0
+    },
+    {
+      "kms_driven": 27000,
+      "price": 489999.0
+    },
+    {
+      "kms_driven": 150000,
+      "price": 35000.0
+    },
+    {
+      "kms_driven": 20000,
+      "price": 115000.0
+    },
+    {
+      "kms_driven": 45000,
+      "price": 160000.0
+    },
+    {
+      "kms_driven": 41000,
+      "price": 340000.0
+    },
+    {
+      "kms_driven": 80000,
+      "price": 689999.0
+    },
+    {
+      "kms_driven": 9400,
+      "price": 360000.0
+    },
+    {
+      "kms_driven": 2110,
+      "price": 140000.0
+    },
+    {
+      "kms_driven": 35000,
+      "price": 210000.0
+    },
+    {
+      "kms_driven": 22134,
+      "price": 99000.0
+    },
+    {
+      "kms_driven": 32000,
+      "price": 195000.0
+    },
+    {
+      "kms_driven": 0,
+      "price": 568500.0
+    },
+    {
+      "kms_driven": 8500,
+      "price": 2800000.0
+    },
+    {
+      "kms_driven": 133000,
+      "price": 130000.0
+    },
+    {
+      "kms_driven": 11500,
+      "price": 1599000.0
+    },
+    {
+      "kms_driven": 31000,
+      "price": 1400000.0
+    },
+    {
+      "kms_driven": 100800,
+      "price": 465000.0
+    },
+    {
+      "kms_driven": 70000,
+      "price": 125000.0
+    },
+    {
+      "kms_driven": 16000,
+      "price": 235000.0
+    },
+    {
+      "kms_driven": 20000,
+      "price": 170000.0
+    },
+    {
+      "kms_driven": 44000,
+      "price": 550000.0
+    },
+    {
+      "kms_driven": 18000,
+      "price": 265000.0
+    },
+    {
+      "kms_driven": 34000,
+      "price": 2390000.0
+    },
+    {
+      "kms_driven": 45000,
+      "price": 525000.0
+    },
+    {
+      "kms_driven": 48000,
+      "price": 165000.0
+    },
+    {
+      "kms_driven": 40000,
+      "price": 225000.0
+    },
+    {
+      "kms_driven": 32000,
+      "price": 415000.0
+    },
+    {
+      "kms_driven": 22000,
+      "price": 344999.0
+    },
+    {
+      "kms_driven": 35000,
+      "price": 525000.0
+    },
+    {
+      "kms_driven": 50000,
+      "price": 524999.0
+    },
+    {
+      "kms_driven": 55000,
+      "price": 424999.0
+    },
+    {
+      "kms_driven": 30000,
+      "price": 110000.0
+    },
+    {
+      "kms_driven": 66000,
+      "price": 130000.0
+    },
+    {
+      "kms_driven": 50000,
+      "price": 180000.0
+    },
+    {
+      "kms_driven": 39000,
+      "price": 599999.0
+    },
+    {
+      "kms_driven": 38000,
+      "price": 495000.0
+    },
+    {
+      "kms_driven": 42000,
+      "price": 855000.0
+    },
+    {
+      "kms_driven": 129000,
+      "price": 220000.0
+    },
+    {
+      "kms_driven": 60000,
+      "price": 55000.0
+    },
+    {
+      "kms_driven": 45000,
+      "price": 135000.0
+    },
+    {
+      "kms_driven": 60000,
+      "price": 35999.0
+    },
+    {
+      "kms_driven": 160000,
+      "price": 230000.0
+    },
+    {
+      "kms_driven": 33400,
+      "price": 30000.0
+    },
+    {
+      "kms_driven": 55000,
+      "price": 90000.0
+    },
+    {
+      "kms_driven": 150000,
+      "price": 325000.0
+    },
+    {
+      "kms_driven": 85000,
+      "price": 350000.0
+    },
+    {
+      "kms_driven": 104000,
+      "price": 150000.0
+    },
+    {
+      "kms_driven": 22000,
+      "price": 984999.0
+    },
+    {
+      "kms_driven": 55000,
+      "price": 30000.0
+    },
+    {
+      "kms_driven": 9300,
+      "price": 255000.0
+    },
+    {
+      "kms_driven": 12000,
+      "price": 800000.0
+    },
+    {
+      "kms_driven": 20000,
+      "price": 400000.0
+    },
+    {
+      "kms_driven": 6821,
+      "price": 524999.0
+    },
+    {
+      "kms_driven": 95500,
+      "price": 320000.0
+    },
+    {
+      "kms_driven": 21000,
+      "price": 599999.0
+    },
+    {
+      "kms_driven": 48000,
+      "price": 500000.0
+    },
+    {
+      "kms_driven": 27000,
+      "price": 380000.0
+    },
+    {
+      "kms_driven": 45000,
+      "price": 444999.0
+    },
+    {
+      "kms_driven": 60000,
+      "price": 162000.0
+    },
+    {
+      "kms_driven": 41000,
+      "price": 110000.0
+    },
+    {
+      "kms_driven": 56000,
+      "price": 85000.0
+    },
+    {
+      "kms_driven": 33333,
+      "price": 350000.0
+    },
+    {
+      "kms_driven": 47000,
+      "price": 70000.0
+    },
+    {
+      "kms_driven": 42000,
+      "price": 325000.0
+    },
+    {
+      "kms_driven": 9000,
+      "price": 675000.0
+    },
+    {
+      "kms_driven": 60,
+      "price": 390000.0
+    },
+    {
+      "kms_driven": 35522,
+      "price": 385000.0
+    },
+    {
+      "kms_driven": 37000,
+      "price": 750000.0
+    },
+    {
+      "kms_driven": 33000,
+      "price": 311000.0
+    },
+    {
+      "kms_driven": 59466,
+      "price": 220000.0
+    },
+    {
+      "kms_driven": 60000,
+      "price": 210000.0
+    },
+    {
+      "kms_driven": 46000,
+      "price": 75000.0
+    },
+    {
+      "kms_driven": 37000,
+      "price": 199000.0
+    },
+    {
+      "kms_driven": 55000,
+      "price": 245000.0
+    },
+    {
+      "kms_driven": 68000,
+      "price": 448000.0
+    },
+    {
+      "kms_driven": 97000,
+      "price": 1499000.0
+    },
+    {
+      "kms_driven": 80000,
+      "price": 60000.0
+    },
+    {
+      "kms_driven": 55800,
+      "price": 90000.0
+    },
+    {
+      "kms_driven": 100000,
+      "price": 560000.0
+    },
+    {
+      "kms_driven": 7000,
+      "price": 120000.0
+    },
+    {
+      "kms_driven": 20000,
+      "price": 395000.0
+    },
+    {
+      "kms_driven": 47000,
+      "price": 230000.0
+    },
+    {
+      "kms_driven": 22000,
+      "price": 289999.0
+    },
+    {
+      "kms_driven": 55000,
+      "price": 110000.0
+    },
+    {
+      "kms_driven": 90000,
+      "price": 215000.0
+    },
+    {
+      "kms_driven": 14000,
+      "price": 155000.0
+    },
+    {
+      "kms_driven": 13349,
+      "price": 372000.0
+    },
+    {
+      "kms_driven": 60000,
+      "price": 499999.0
+    },
+    {
+      "kms_driven": 44000,
+      "price": 110000.0
+    },
+    {
+      "kms_driven": 48000,
+      "price": 340000.0
+    },
+    {
+      "kms_driven": 34000,
+      "price": 475000.0
+    },
+    {
+      "kms_driven": 32000,
+      "price": 549000.0
+    },
+    {
+      "kms_driven": 19000,
+      "price": 549999.0
+    },
+    {
+      "kms_driven": 65000,
+      "price": 245000.0
+    },
+    {
+      "kms_driven": 44000,
+      "price": 315000.0
+    },
+    {
+      "kms_driven": 25000,
+      "price": 580000.0
+    },
+    {
+      "kms_driven": 27000,
+      "price": 260000.0
+    },
+    {
+      "kms_driven": 50000,
+      "price": 60000.0
+    },
+    {
+      "kms_driven": 50000,
+      "price": 449999.0
+    },
+    {
+      "kms_driven": 45000,
+      "price": 135000.0
+    },
+    {
+      "kms_driven": 51000,
+      "price": 499000.0
+    },
+    {
+      "kms_driven": 39700,
+      "price": 190000.0
+    },
+    {
+      "kms_driven": 200000,
+      "price": 1000000.0
+    },
+    {
+      "kms_driven": 38000,
+      "price": 701000.0
+    },
+    {
+      "kms_driven": 28000,
+      "price": 325000.0
+    },
+    {
+      "kms_driven": 65000,
+      "price": 130000.0
+    },
+    {
+      "kms_driven": 28000,
+      "price": 500000.0
+    },
+    {
+      "kms_driven": 1000,
+      "price": 370000.0
+    },
+    {
+      "kms_driven": 39000,
+      "price": 489999.0
+    },
+    {
+      "kms_driven": 50000,
+      "price": 270000.0
+    },
+    {
+      "kms_driven": 30201,
+      "price": 490000.0
+    },
+    {
+      "kms_driven": 64000,
+      "price": 255000.0
+    },
+    {
+      "kms_driven": 42000,
+      "price": 149000.0
+    },
+    {
+      "kms_driven": 100200,
+      "price": 275000.0
+    },
+    {
+      "kms_driven": 65000,
+      "price": 55000.0
+    },
+    {
+      "kms_driven": 56000,
+      "price": 390000.0
+    },
+    {
+      "kms_driven": 45872,
+      "price": 168000.0
+    },
+    {
+      "kms_driven": 44000,
+      "price": 349999.0
+    },
+    {
+      "kms_driven": 41800,
+      "price": 650000.0
+    },
+    {
+      "kms_driven": 80000,
+      "price": 285000.0
+    },
+    {
+      "kms_driven": 56000,
+      "price": 80000.0
+    },
+    {
+      "kms_driven": 31000,
+      "price": 199000.0
+    },
+    {
+      "kms_driven": 45000,
+      "price": 569999.0
+    },
+    {
+      "kms_driven": 62000,
+      "price": 565000.0
+    },
+    {
+      "kms_driven": 22000,
+      "price": 210000.0
+    },
+    {
+      "kms_driven": 5000,
+      "price": 230000.0
+    },
+    {
+      "kms_driven": 36000,
+      "price": 275000.0
+    },
+    {
+      "kms_driven": 60500,
+      "price": 600000.0
+    },
+    {
+      "kms_driven": 29000,
+      "price": 2190000.0
+    },
+    {
+      "kms_driven": 24800,
+      "price": 275000.0
+    },
+    {
+      "kms_driven": 15000,
+      "price": 170000.0
+    },
+    {
+      "kms_driven": 12500,
+      "price": 189500.0
+    },
+    {
+      "kms_driven": 60105,
+      "price": 140000.0
+    },
+    {
+      "kms_driven": 60000,
+      "price": 85000.0
+    },
+    {
+      "kms_driven": 58000,
+      "price": 175000.0
+    },
+    {
+      "kms_driven": 45000,
+      "price": 145000.0
+    },
+    {
+      "kms_driven": 48006,
+      "price": 280000.0
+    },
+    {
+      "kms_driven": 56000,
+      "price": 195000.0
+    },
+    {
+      "kms_driven": 300,
+      "price": 1200000.0
+    },
+    {
+      "kms_driven": 60000,
+      "price": 175000.0
+    },
+    {
+      "kms_driven": 40000,
+      "price": 425000.0
+    },
+    {
+      "kms_driven": 38000,
+      "price": 98500.0
+    },
+    {
+      "kms_driven": 73000,
+      "price": 430000.0
+    },
+    {
+      "kms_driven": 24530,
+      "price": 830000.0
+    },
+    {
+      "kms_driven": 100000,
+      "price": 150000.0
+    },
+    {
+      "kms_driven": 51000,
+      "price": 60000.0
+    },
+    {
+      "kms_driven": 99000,
+      "price": 250000.0
+    },
+    {
+      "kms_driven": 47900,
+      "price": 205000.0
+    },
+    {
+      "kms_driven": 30000,
+      "price": 599999.0
+    },
+    {
+      "kms_driven": 15000,
+      "price": 325000.0
+    },
+    {
+      "kms_driven": 60000,
+      "price": 370000.0
+    },
+    {
+      "kms_driven": 80000,
+      "price": 600000.0
+    },
+    {
+      "kms_driven": 75000,
+      "price": 175000.0
+    },
+    {
+      "kms_driven": 47000,
+      "price": 1475000.0
+    },
+    {
+      "kms_driven": 65480,
+      "price": 210000.0
+    },
+    {
+      "kms_driven": 146000,
+      "price": 350000.0
+    },
+    {
+      "kms_driven": 13500,
+      "price": 1891111.0
+    },
+    {
+      "kms_driven": 35000,
+      "price": 350000.0
+    },
+    {
+      "kms_driven": 30000,
+      "price": 855000.0
+    },
+    {
+      "kms_driven": 131000,
+      "price": 940000.0
+    },
+    {
+      "kms_driven": 19336,
+      "price": 179999.0
+    },
+    {
+      "kms_driven": 48508,
+      "price": 250000.0
+    },
+    {
+      "kms_driven": 47000,
+      "price": 649999.0
+    },
+    {
+      "kms_driven": 60000,
+      "price": 900000.0
+    },
+    {
+      "kms_driven": 2000,
+      "price": 900000.0
+    },
+    {
+      "kms_driven": 43000,
+      "price": 475000.0
+    },
+    {
+      "kms_driven": 12000,
+      "price": 265000.0
+    },
+    {
+      "kms_driven": 20000,
+      "price": 90000.0
+    },
+    {
+      "kms_driven": 29000,
+      "price": 575000.0
+    },
+    {
+      "kms_driven": 54000,
+      "price": 448999.0
+    },
+    {
+      "kms_driven": 40000,
+      "price": 1299000.0
+    },
+    {
+      "kms_driven": 11523,
+      "price": 370000.0
+    },
+    {
+      "kms_driven": 8000,
+      "price": 240000.0
+    },
+    {
+      "kms_driven": 27000,
+      "price": 215000.0
+    },
+    {
+      "kms_driven": 35000,
+      "price": 610000.0
+    },
+    {
+      "kms_driven": 23000,
+      "price": 135000.0
+    },
+    {
+      "kms_driven": 43000,
+      "price": 365000.0
+    },
+    {
+      "kms_driven": 30000,
+      "price": 178000.0
+    },
+    {
+      "kms_driven": 55000,
+      "price": 100000.0
+    },
+    {
+      "kms_driven": 14000,
+      "price": 265000.0
+    },
+    {
+      "kms_driven": 27000,
+      "price": 159000.0
+    },
+    {
+      "kms_driven": 52800,
+      "price": 549900.0
+    },
+    {
+      "kms_driven": 42000,
+      "price": 485000.0
+    },
+    {
+      "kms_driven": 30000,
+      "price": 224999.0
+    },
+    {
+      "kms_driven": 49000,
+      "price": 349999.0
+    },
+    {
+      "kms_driven": 22000,
+      "price": 475000.0
+    },
+    {
+      "kms_driven": 20000,
+      "price": 689999.0
+    },
+    {
+      "kms_driven": 45000,
+      "price": 225000.0
+    },
+    {
+      "kms_driven": 120000,
+      "price": 290000.0
+    },
+    {
+      "kms_driven": 49800,
+      "price": 548900.0
+    },
+    {
+      "kms_driven": 88000,
+      "price": 51999.0
+    },
+    {
+      "kms_driven": 38000,
+      "price": 330000.0
+    },
+    {
+      "kms_driven": 21000,
+      "price": 270000.0
+    },
+    {
+      "kms_driven": 37000,
+      "price": 299999.0
+    },
+    {
+      "kms_driven": 55000,
+      "price": 250000.0
+    },
+    {
+      "kms_driven": 68000,
+      "price": 530000.0
+    },
+    {
+      "kms_driven": 28400,
+      "price": 200000.0
+    }
+  ],
+  "companies_models": {
+    "Audi": [
+      "A3 Cabriolet 40 TFSI",
+      "A4 1.8 TFSI Multitronic Premium Plus",
+      "A4 2.0 TDI 177bhp Premium",
+      "A6 2.0 TDI Premium",
+      "A8",
+      "Q3 2.0 TDI quattro Premium",
+      "Q5 2.0 TDI quattro Premium Plus",
+      "Q7"
+    ],
+    "BMW": [
+      "3 Series 320d Sedan",
+      "3 Series 320i",
+      "5 Series 520d Sedan",
+      "5 Series 530i",
+      "7 Series 740Li Sedan",
+      "X1",
+      "X1 sDrive20d",
+      "X1 xDrive20d xLine"
+    ],
+    "Chevrolet": [
+      "Beat",
+      "Beat Diesel",
+      "Beat LS Diesel",
+      "Beat LS Petrol",
+      "Beat LT Diesel",
+      "Beat LT Opt Diesel",
+      "Beat LT Petrol",
+      "Beat PS Diesel",
+      "Cruze LTZ",
+      "Cruze LTZ AT",
+      "Enjoy",
+      "Enjoy 1.4 LS 8 STR",
+      "Sail 1.2 LS",
+      "Sail UVA Petrol LT ABS",
+      "Spark",
+      "Spark 1.0 LT",
+      "Spark LS 1.0",
+      "Spark LT 1.0",
+      "Spark LT 1.0 Airbag",
+      "Tavera LS B3 10 Seats BSII",
+      "Tavera Neo"
+    ],
+    "Datsun": [
+      "GO T O",
+      "Go Plus",
+      "Redi GO",
+      "Redi GO S",
+      "Redi GO T O"
+    ],
+    "Fiat": [
+      "Linea Emotion 1.4 L T Jet Petrol",
+      "Petra ELX 1.2 PS",
+      "Punto Emotion 1.2"
+    ],
+    "Force": [
+      "Motors Force One LX ABS 7 STR",
+      "Motors One SUV"
+    ],
+    "Ford": [
+      "EcoSport",
+      "EcoSport Ambiente 1.5L TDCi",
+      "EcoSport Titanium 1.5 TDCi",
+      "EcoSport Titanium 1.5L TDCi",
+      "EcoSport Trend 1.5 Ti VCT",
+      "EcoSport Trend 1.5L TDCi",
+      "EcoSport Trend 1.5L Ti VCT",
+      "Endeavor 4x4 Thunder Plus",
+      "Fiesta",
+      "Fiesta SXi 1.6 ABS",
+      "Figo",
+      "Figo Diesel EXI",
+      "Figo Diesel EXI Option",
+      "Figo Duratorq Diesel Titanium 1.4",
+      "Figo Petrol LXI",
+      "Figo Petrol Titanium",
+      "Fusion 1.4 TDCi Diesel",
+      "Ikon 1.3 CLXi NXt Finesse",
+      "Ikon 1.3 Flair Josh 100",
+      "Ikon 1.6 Nxt"
+    ],
+    "Hindustan": [
+      "Motors Ambassador",
+      "Motors Ambassador Classic Mark 4 \u2013 Befo"
+    ],
+    "Honda": [
+      "Accord",
+      "Amaze",
+      "Amaze 1.2 S i VTEC",
+      "Amaze 1.2 VX i VTEC",
+      "Amaze 1.5 E i DTEC",
+      "Amaze 1.5 S i DTEC",
+      "Amaze 1.5 SX i DTEC",
+      "Brio",
+      "Brio V MT",
+      "Brio VX AT",
+      "City",
+      "City 1.5 E MT",
+      "City 1.5 EXi New",
+      "City 1.5 S Inspire",
+      "City 1.5 S MT",
+      "City 1.5 V AT",
+      "City 1.5 V MT",
+      "City 1.5 V MT Exclusive",
+      "City SV",
+      "City VX O MT Diesel",
+      "City VX Petrol",
+      "City ZX CVT",
+      "City ZX EXi",
+      "City ZX GXi",
+      "City ZX VTEC",
+      "Jazz S MT",
+      "Jazz VX MT",
+      "Mobilio",
+      "Mobilio S i DTEC",
+      "WR V S MT Petrol"
+    ],
+    "Hyundai": [
+      "Accent",
+      "Accent Executive Edition",
+      "Accent GLE",
+      "Accent GLX",
+      "Creta",
+      "Creta 1.6 SX",
+      "Creta 1.6 SX Plus Petrol",
+      "Creta 1.6 SX Plus Petrol AT",
+      "Elantra 1.8 S",
+      "Elantra SX",
+      "Elite i20",
+      "Elite i20 Asta 1.2",
+      "Elite i20 Asta 1.4 CRDI",
+      "Elite i20 Magna 1.2",
+      "Elite i20 Sportz 1.2",
+      "Eon",
+      "Eon D Lite Plus",
+      "Eon Era Plus",
+      "Eon Magna",
+      "Eon Magna Plus",
+      "Eon Sportz",
+      "Fluidic Verna 1.6 CRDi SX",
+      "Getz",
+      "Getz GLE",
+      "Getz Prime 1.3 GLX",
+      "Getz Prime 1.3 GVS",
+      "Grand i10",
+      "Grand i10 Asta 1.1 CRDi",
+      "Grand i10 Asta 1.2 Kappa VTVT",
+      "Grand i10 Asta 1.2 Kappa VTVT O",
+      "Grand i10 Magna 1.2 Kappa VTVT",
+      "Grand i10 Magna AT 1.2 Kappa VTVT",
+      "Grand i10 Sportz 1.2 Kappa VTVT",
+      "Grand i10 Sportz O 1.2 Kappa VTVT",
+      "Santro",
+      "Santro AE GLS Audio",
+      "Santro Xing",
+      "Santro Xing GL",
+      "Santro Xing GLS",
+      "Santro Xing XL AT eRLX Euro III",
+      "Santro Xing XL eRLX Euro III",
+      "Santro Xing XO eRLX Euro III",
+      "Santro Xing XS",
+      "Sonata Transform 2.4 GDi MT",
+      "Verna",
+      "Verna 1.4 VTVT",
+      "Verna 1.6 CRDI E",
+      "Verna 1.6 CRDI SX",
+      "Verna 1.6 CRDI SX Plus AT",
+      "Verna 1.6 EX VTVT",
+      "Verna 1.6 SX VTVT AT",
+      "Verna Fluidic",
+      "Verna Fluidic 1.6 VTVT SX",
+      "Verna Fluidic New",
+      "Verna Transform SX VTVT",
+      "Verna VGT CRDi SX ABS",
+      "Xcent Base 1.1 CRDi",
+      "Xcent SX 1.2",
+      "i10",
+      "i10 Era",
+      "i10 Magna 1.2",
+      "i10 Magna 1.2 Kappa2",
+      "i10 Sportz",
+      "i10 Sportz 1.2",
+      "i20",
+      "i20 Active",
+      "i20 Active 1.2 SX",
+      "i20 Active 1.4L SX O",
+      "i20 Asta",
+      "i20 Asta 1.2",
+      "i20 Asta 1.4 CRDI 6 Speed",
+      "i20 Magna",
+      "i20 Magna 1.2",
+      "i20 Magna O 1.2",
+      "i20 Select Variant",
+      "i20 Sportz 1.2",
+      "i20 Sportz 1.4 CRDI"
+    ],
+    "Jaguar": [
+      "XE XE Portfolio",
+      "XF 2.2 Diesel Luxury"
+    ],
+    "Jeep": [
+      "Wrangler Unlimited 4x4 Diesel"
+    ],
+    "Land": [
+      "Rover Freelander 2 SE"
+    ],
+    "Mahindra": [
+      "Bolero DI",
+      "Bolero DI BSII",
+      "Bolero Power Plus SLE",
+      "Bolero SLE BS IV",
+      "Jeep CL550 MDI",
+      "Jeep MM 550 XDB",
+      "KUV100",
+      "KUV100 K8 6 STR",
+      "KUV100 K8 D 6 STR",
+      "Logan",
+      "Logan Diesel 1.5 DLS",
+      "Quanto C4",
+      "Quanto C8",
+      "Scorpio",
+      "Scorpio 2.6 CRDe",
+      "Scorpio 2.6 SLX",
+      "Scorpio LX BS III",
+      "Scorpio S10",
+      "Scorpio S10 4WD",
+      "Scorpio S4",
+      "Scorpio SLE BS IV",
+      "Scorpio SLX",
+      "Scorpio SLX 2.6 Turbo 8 Str",
+      "Scorpio VLX 2.2 mHawk Airbag BSIV",
+      "Scorpio VLX 2WD BS IV",
+      "Scorpio VLX 4WD Airbag",
+      "Scorpio VLX Airbag",
+      "Scorpio VLX Special Edition BS III",
+      "Scorpio Vlx BSIV",
+      "Scorpio W Turbo 2.6DX 9 Seater",
+      "TUV300 T4 Plus",
+      "TUV300 T8",
+      "Thar CRDe 4x4 AC",
+      "XUV500",
+      "XUV500 W10",
+      "XUV500 W6",
+      "XUV500 W8",
+      "XUV500 W8 AWD 2013",
+      "Xylo D2",
+      "Xylo D2 BS IV",
+      "Xylo E4",
+      "Xylo E8",
+      "Xylo E8 BS IV"
+    ],
+    "Maruti": [
+      "Suzuki 800",
+      "Suzuki 800 Std BS III",
+      "Suzuki A Star Lxi",
+      "Suzuki Alto",
+      "Suzuki Alto 800",
+      "Suzuki Alto 800 LXI CNG O",
+      "Suzuki Alto 800 Lx",
+      "Suzuki Alto 800 Lxi",
+      "Suzuki Alto 800 Vxi",
+      "Suzuki Alto AX",
+      "Suzuki Alto K10 LXi CNG",
+      "Suzuki Alto K10 New",
+      "Suzuki Alto K10 VXi",
+      "Suzuki Alto K10 VXi AMT",
+      "Suzuki Alto K10 VXi AT",
+      "Suzuki Alto LX",
+      "Suzuki Alto LXi BS III",
+      "Suzuki Alto Std BS IV",
+      "Suzuki Baleno Delta 1.2",
+      "Suzuki Baleno Sigma 1.2",
+      "Suzuki Baleno Zeta 1.2",
+      "Suzuki Celerio VDi",
+      "Suzuki Ciaz VXi Plus",
+      "Suzuki Ciaz ZXI Plus",
+      "Suzuki Ciaz ZXi Plus RS",
+      "Suzuki Dzire",
+      "Suzuki Dzire LDI",
+      "Suzuki Dzire VDI",
+      "Suzuki Dzire ZXI",
+      "Suzuki Eeco 5 STR WITH AC HTR",
+      "Suzuki Eeco 7 STR",
+      "Suzuki Ertiga",
+      "Suzuki Ertiga LDi",
+      "Suzuki Ertiga VDi",
+      "Suzuki Ertiga Vxi",
+      "Suzuki Ertiga ZXI Plus",
+      "Suzuki Ertiga ZXi",
+      "Suzuki Esteem LXi BS III",
+      "Suzuki Esteem VXi BS III",
+      "Suzuki Estilo LX BS IV",
+      "Suzuki Estilo VXi ABS BS IV",
+      "Suzuki Maruti 800 AC",
+      "Suzuki Maruti 800 Std",
+      "Suzuki Maruti 800 Std \u2013 Befo",
+      "Suzuki Omni",
+      "Suzuki Omni 8 STR BS III",
+      "Suzuki Omni E 8 STR BS IV",
+      "Suzuki Omni LPG BS IV",
+      "Suzuki Omni Limited Edition",
+      "Suzuki Omni Select Variant",
+      "Suzuki Ritz",
+      "Suzuki Ritz GENUS VXI",
+      "Suzuki Ritz LDi",
+      "Suzuki Ritz VDi",
+      "Suzuki Ritz VXI",
+      "Suzuki Ritz VXI ABS",
+      "Suzuki S Cross Sigma 1.3",
+      "Suzuki SX4",
+      "Suzuki SX4 Celebration Diesel",
+      "Suzuki SX4 ZXI MT",
+      "Suzuki Stingray VXi",
+      "Suzuki Swift",
+      "Suzuki Swift Dzire",
+      "Suzuki Swift Dzire Tour LDi",
+      "Suzuki Swift Dzire Tour LXi",
+      "Suzuki Swift Dzire Tour VDi",
+      "Suzuki Swift Dzire Tour VXi",
+      "Suzuki Swift Dzire VDi",
+      "Suzuki Swift Dzire VXi 1.2 BS IV",
+      "Suzuki Swift Dzire ZDi",
+      "Suzuki Swift GLAM",
+      "Suzuki Swift LDi",
+      "Suzuki Swift RS VDI",
+      "Suzuki Swift Select Variant",
+      "Suzuki Swift VDi",
+      "Suzuki Swift VDi ABS",
+      "Suzuki Swift VDi BS IV",
+      "Suzuki Swift VXI BSIII",
+      "Suzuki Swift VXi 1.2 ABS BS IV",
+      "Suzuki Swift VXi 1.2 BS IV",
+      "Suzuki Swift Vdi BSIII",
+      "Suzuki Swift ZXi 1.2 BS IV",
+      "Suzuki Versa DX2 8 SEATER BSIII",
+      "Suzuki Vitara Brezza",
+      "Suzuki Vitara Brezza LDi O",
+      "Suzuki Vitara Brezza ZDi",
+      "Suzuki Wagon R",
+      "Suzuki Wagon R 1.0",
+      "Suzuki Wagon R 1.0 VXi",
+      "Suzuki Wagon R AX BSIV",
+      "Suzuki Wagon R Duo Lxi",
+      "Suzuki Wagon R LX BS III",
+      "Suzuki Wagon R LX BS IV",
+      "Suzuki Wagon R LXI BS IV",
+      "Suzuki Wagon R LXi BS III",
+      "Suzuki Wagon R Select Variant",
+      "Suzuki Wagon R VXI BS IV",
+      "Suzuki Wagon R VXi BS III",
+      "Suzuki Wagon R VXi Minor",
+      "Suzuki Zen Estilo",
+      "Suzuki Zen Estilo LXI Green CNG",
+      "Suzuki Zen LX BSII",
+      "Suzuki Zen LXi BS III",
+      "Suzuki Zen LXi BSII",
+      "Suzuki Zen VX"
+    ],
+    "Mercedes": [
+      "Benz A Class A 180 Sport Petrol",
+      "Benz B Class B180 Sports",
+      "Benz C Class 200 CDI Classic",
+      "Benz C Class 200 K MT",
+      "Benz C Class C 220 CDI Avantgarde",
+      "Benz GLA Class 200 CDI Sport"
+    ],
+    "Mini": [
+      "Cooper S",
+      "Cooper S 1.6"
+    ],
+    "Mitsubishi": [
+      "Lancer 1.8 LXi",
+      "Pajero Sport 2.5 AT",
+      "Pajero Sport Limited Edition"
+    ],
+    "Nissan": [
+      "Micra XL",
+      "Micra XV",
+      "Sunny",
+      "Sunny XL",
+      "Terrano XL D Plus",
+      "X Trail Select Variant"
+    ],
+    "Renault": [
+      "Duster",
+      "Duster 110 PS RxL Diesel",
+      "Duster 110 PS RxZ Diesel",
+      "Duster 110 PS RxZ Diesel Plus",
+      "Duster 110PS Diesel RxZ",
+      "Duster 85 PS RxE Diesel",
+      "Duster 85 PS RxL Diesel",
+      "Duster 85 PS RxL Explore LE",
+      "Duster 85PS Diesel RxL Optional with Nav",
+      "Duster RxL Petrol",
+      "Kwid",
+      "Kwid 1.0",
+      "Kwid 1.0 RXT AMT",
+      "Kwid RXT",
+      "Kwid RXT Opt",
+      "Lodgy 85 PS RXL",
+      "Scala RxL Diesel",
+      "Scala RxL Diesel Travelogue"
+    ],
+    "Skoda": [
+      "Fabia",
+      "Fabia 1.2L Diesel Ambiente",
+      "Fabia 1.2L Diesel Elegance",
+      "Fabia Classic 1.2 MPI",
+      "Laura",
+      "Octavia Classic 1.9 TDI MT",
+      "Rapid Elegance 1.6 TDI CR MT",
+      "Superb 1.8 TFSI AT",
+      "Yeti Ambition 2.0 TDI CR 4x2"
+    ],
+    "Tata": [
+      "Aria Pleasure 4X2",
+      "Bolt XM Petrol",
+      "Indica",
+      "Indica V2",
+      "Indica V2 DLE BS III",
+      "Indica V2 DLG",
+      "Indica V2 DLS BS III",
+      "Indica V2 DLX BS III",
+      "Indica V2 LS",
+      "Indica V2 Xeta e GLE",
+      "Indica V2 eLS",
+      "Indica eV2 LS",
+      "Indica eV2 eXeta eGLX",
+      "Indigo CS",
+      "Indigo CS GLS",
+      "Indigo CS LS DiCOR",
+      "Indigo CS eLS BS IV",
+      "Indigo CS eLX BS IV",
+      "Indigo LS",
+      "Indigo LX TDI BS III",
+      "Indigo Marina LS",
+      "Indigo eCS",
+      "Indigo eCS LS CR4 BS IV",
+      "Indigo eCS LX CR4 BS IV",
+      "Indigo eCS LX TDI BS III",
+      "Indigo eCS VX CR4 BS IV",
+      "Manza",
+      "Manza Aqua Quadrajet",
+      "Manza Aura Quadrajet",
+      "Manza ELAN Quadrajet",
+      "Nano",
+      "Nano Cx BSIV",
+      "Nano GenX XMA",
+      "Nano LX Special Edition",
+      "Nano Lx BSIV",
+      "Sumo Gold EX BS IV",
+      "Sumo Gold FX BSIII",
+      "Sumo Gold LX BS IV",
+      "Sumo Gold Select Variant",
+      "Sumo Grande MKII GX",
+      "Sumo Victa EX 10 by 7 Str BSIII",
+      "Tiago Revotorq XZ",
+      "Tiago Revotron XM",
+      "Tiago Revotron XZ",
+      "Tigor Revotron XZ",
+      "Venture EX 8 STR",
+      "Vista Quadrajet VX",
+      "Zest Quadrajet 1.3",
+      "Zest XE 75 PS Diesel",
+      "Zest XM Diesel"
+    ],
+    "Toyota": [
+      "Corolla",
+      "Corolla Altis",
+      "Corolla Altis 1.8 GL",
+      "Corolla Altis 1.8 J",
+      "Corolla Altis Diesel D4DG",
+      "Corolla Altis GL Petrol",
+      "Corolla Altis Petrol Ltd",
+      "Corolla Altis VL AT Petrol",
+      "Corolla H2",
+      "Etios",
+      "Etios G",
+      "Etios GD",
+      "Etios Liva",
+      "Etios Liva Diesel",
+      "Etios Liva G",
+      "Etios Liva GD",
+      "Fortuner",
+      "Fortuner 3.0 4x2 MT",
+      "Fortuner 3.0 4x4 MT",
+      "Innova 2.0 G 8 STR BS IV",
+      "Innova 2.0 G4",
+      "Innova 2.5 E 8 STR",
+      "Innova 2.5 E MS 7 STR BS IV",
+      "Innova 2.5 G BS III 8 STR",
+      "Innova 2.5 GX BS IV 7 STR",
+      "Innova 2.5 V 7 STR",
+      "Innova 2.5 Z Diesel 7 Seater",
+      "Qualis"
+    ],
+    "Volkswagen": [
+      "Jetta Comfortline 1.9 TDI AT",
+      "Jetta Highline TDI AT",
+      "Passat Diesel Comfortline AT",
+      "Polo",
+      "Polo Comfortline 1.2L P",
+      "Polo Highline Exquisite P",
+      "Polo Highline1.2L P",
+      "Polo Trendline 1.5L D",
+      "Vento Comfortline Diesel",
+      "Vento Comfortline Petrol",
+      "Vento Highline Plus 1.5 Diesel AT",
+      "Vento Konekt Diesel Highline"
+    ],
+    "Volvo": [
+      "S80 Summum D4"
+    ]
+  },
+  "fuel_avg_price": {
+    "Diesel": 491834.95,
+    "Lpg": 205000.0,
+    "Petrol": 308312.96
+  },
+  "insights": {
+    "best_value_brands": [
+      {
+        "company": "Fiat",
+        "avg_price": 121500.0
+      },
+      {
+        "company": "Chevrolet",
+        "avg_price": 196845.42
+      },
+      {
+        "company": "Tata",
+        "avg_price": 196902.52
+      }
+    ],
+    "most_expensive_brands": [
+      {
+        "company": "Mini",
+        "avg_price": 1891111.0
+      },
+      {
+        "company": "Land",
+        "avg_price": 2100000.0
+      },
+      {
+        "company": "Jaguar",
+        "avg_price": 2495000.0
+      }
+    ],
+    "fuel_type_trends": [
+      {
+        "fuel_type": "Diesel",
+        "avg_price": 491834.95
+      },
+      {
+        "fuel_type": "Petrol",
+        "avg_price": 308312.96
+      },
+      {
+        "fuel_type": "Lpg",
+        "avg_price": 205000.0
+      }
+    ],
+    "depreciation_rate": -101.0,
+    "mileage_price_correlation": -0.1572,
+    "mileage_impact": "Mileage has moderate impact on resale value."
+  },
+  "total_records": 723,
+  "price_stats": {
+    "min": 30000.0,
+    "max": 3100000.0,
+    "mean": 392046.23,
+    "median": 290000.0
+  }
+}
